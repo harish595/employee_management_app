@@ -1,14 +1,7 @@
 {
   "employees": [
     {
-      "name": "Riya Sharma",
-      "email": "riya.sharma@gmail.com",
-      "phone": "521234567",
-      "gender": "female",
-      "id": "b852"
-    },
-    {
-      "name": "Savitha Hampiholi",
+      "name": "Savitha H",
       "email": "savitha@gmail.com",
       "phone": "123456789",
       "gender": "female",
@@ -26,6 +19,13 @@
       "name": "Hrithik",
       "email": "hrithik@gmail.com",
       "phone": "8765432190",
+      "gender": "male"
+    },
+    {
+      "id": "63ff",
+      "name": "Bob",
+      "email": "bob@gmail.com",
+      "phone": "123456789",
       "gender": "male"
     }
   ]
